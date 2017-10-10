@@ -44,6 +44,7 @@ public class Main {
 		for (int i=0; i<=(2-n)*2; i++) {
 			asterisk= asterisk+ "*";
 		}
+		
 		System.out.println(asterisk);
 		}
 
