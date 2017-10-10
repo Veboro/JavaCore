@@ -28,7 +28,7 @@ public class HomeWork {
         for (i = 1; i <= rows; ++i, tmp = 0) {
             for (space = 1; space <= rows - i; ++space) 
                 System.out.print("  ");
-            while(tmp != 2 * i - 1) {
+            while (tmp != 2 * i - 1) {
                 System.out.print("* ");
                 ++tmp;
             }
